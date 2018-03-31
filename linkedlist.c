@@ -308,7 +308,6 @@ node *search(char key[size]){
   return NULL;
 }
     
-
 void showdata(){
   node * link;
   link = root;
